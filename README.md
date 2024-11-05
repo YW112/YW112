@@ -4,7 +4,7 @@
 - 🌱 Я учу React в ITGIRLS, а также Angular и Java в МТС.
 - 📫 Мои контакты: Телеграм - @yulia_wolf112, LinkedIn - www.linkedin.com/in/yulia-yakimets-61b298207.
 - 😄 Я обожаю изучать новое в Sololearn и Stepik, а также решать задачи в Leetcode и Code wars. Посоревнуемся?
-- ⚡ Коммерческий опыт работы: 8 месяцев.
+- ⚡ Коммерческий опыт работы: 1,5 года.
 
 <!--
 **YW112/YW112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
